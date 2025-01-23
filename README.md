@@ -5,7 +5,7 @@
 Explore given text preprocessing concepts in ```text_preprocessing.ipynb```.
 
 
-**Tokenization**
+**Tokenization** 
 
 * Tokenization is a crucial process in natural language processing (NLP) where text is broken down into smaller units called tokens. 
 
@@ -17,6 +17,8 @@ sentence tokenizer:
 word tokenizer: 
  ['Tokenization', 'is', 'a', 'fundamental', 'step', 'in', 'preparing', 'text', 'data', 'for', 'machine', 'learning', 'models', ',', 'particularly', 'for', 'tasks', 'like', 'text', 'classification', ',', 'language', 'modeling', ',', 'translation', ',', 'and', 'sentiment', 'analysis', '.']
  ```
+* Refer ```understanding_tokenization.ipynb``` for details of tokenization strategies.
+
 
  **Stemming and Lemmatization**
 
